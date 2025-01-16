@@ -1,0 +1,11 @@
+Product Manager makes the decisions of the software products.
+Engineers are responsible for the technical implementation of the software, but don't have decision making powers. They perform the POC and actually implement the software.
+Although they might be paid equally, but engineering ain't the holy grail of software.
+There might be multiple people acting as Product Managers on specific features.
+Product Managers(PMs) work closely with designers. They are responsible for getting the things done from the design team and the engineering team.
+They do the Gap analysis of which features can be introduced in the product and in which flow should those features be integrated with so that it permeates in the product in as many places as possible.
+To do the gap analysis the Product managers must first know the core business, the full product, the userbase, the user's needs and the value the feature being added, adds to the product.
+Then after they find out a gap in the product or a use case which is not being fulfilled then they design a requirements doc and work along with the design team to get the initial mockups of the product ready.
+Once those are done then it's presented to the stakeholders, in which the PMs are fired a hell lot of questions and have to justify the need for the feature also enhance it as per the user's needs or stakeholder's advice.
+Once that is put in place then finally, it arrives on the table of the Engineering team, which don't have the option of questioning of the feature or rejecting it, they have to do the rubber hits the road work because it's already gone through a lot of reviews or sets of eyes and has been approved by the stakeholders/bosses.
+They can just ask clarifying questions and be given a deadline under which the software must be implemented.
